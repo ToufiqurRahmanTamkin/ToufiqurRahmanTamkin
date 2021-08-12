@@ -47,9 +47,11 @@ I am a full-stack javascript developer and a competitive programmer with a treme
 
 <img src="https://github-readme-stats.vercel.app/api?username=toufiqurrahmantamkin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ToufiqurRahmanTamkin&theme=merko">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqurrahmantamkin&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ToufiqurRahmanTamkin&theme=merko">
+
 
 
 
