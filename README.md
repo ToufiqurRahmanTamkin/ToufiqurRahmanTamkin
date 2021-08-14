@@ -8,7 +8,7 @@
 
 ### 📖 About me
 
-I am a full-stack javascript developer and a competitive programmer with a tremendous amount of interest in programming. I am working on the MERN stack. I have developed some good-quality projects. You can visit my GitHub profile to get my source codes. I also have good knowledge of Object-Oriented Programming and Programming problem-solving. 
+A full-stack javascript developer and a competitive programmer with a tremendous amount of interest in programming. Currently I am working on the MERN stack. I have developed some good-quality projects. I also have good knowledge of Object-Oriented Programming and Programming problem-solving. 
 
 <br />
 
