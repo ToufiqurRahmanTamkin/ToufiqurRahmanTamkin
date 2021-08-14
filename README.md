@@ -1,4 +1,4 @@
-### Hi there, I'm  [Toufiqur Rahman Tamkin][website] 👋
+### Hi there, I'm  [Toufiqur Rahman Tamkin] 👋
 
 ## I'm a JavaScript Lover
 - 🌱 I’m currently learning everything 🤣
