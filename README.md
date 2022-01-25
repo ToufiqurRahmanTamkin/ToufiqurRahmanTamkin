@@ -1,6 +1,6 @@
-### Hi there, I'm [Toufiqur Rahman Tamkin] 👋
+### Hi there, I'm [Toufiqur Rahman Tamkin] 👋 👋
 
-## I'm a [![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript Lover
+## I'm a [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) JavaScript Lover
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Cloud computing, Software architechture.
@@ -9,7 +9,7 @@
 
 ### 📖 About me
 
-A competitive programmer and a full-stack javascript developer with a strong interest in programming. At the moment, I'm working on the MERN stack. I've worked on some high-quality projects. I also have a strong understanding of Object-Oriented Programming and problem-solving in programming.
+A competitive programmer and a full-stack javascript developer with a strong interest in programming. At the moment, I'm working on the MERN stack. I've worked on some high-quality projects. I also have a strong understanding of Object-Oriented Programming and programming problem-solving.
 
 <br />
 
