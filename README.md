@@ -16,14 +16,16 @@ A competitive programmer and a full-stack javascript developer with a strong int
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/toufiqur-rahman-tamkin-42a167160/)
+[![GitLab](https://img.shields.io/badge/%20-Git%20Lab-black?color=14171A&labelColor=1976d2&logo=gitlab&logoColor=ffffff)](https://gitlab.com/tamkin22rahman)
+[![Jira](https://img.shields.io/badge/%20-Jira-black?color=14171A&labelColor=1976d2&logo=jira&logoColor=ffffff)](https://atlassian-001.atlassian.net/jira/people/60b0c4c85563670070ae027e)
+[![Stack Overflow](https://img.shields.io/badge/%20-Stack%20Overflow-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/11356701/toufiqur-rahman-tamkin?tab=profile)
 [![Facebook](https://img.shields.io/badge/%20-Facebook-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/toufiqur.rahman.50309/)
 [![Instagram](https://img.shields.io/badge/%20-Instagram-black?color=14171A&labelColor=fff&logo=instagram&logoColor=0c0d0e26)](https://www.instagram.com/toufiqur.rahman.tamkin/)
 [![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://tamkin22rahman.medium.com/)
-[![Stack Overflow](https://img.shields.io/badge/%20-Stack%20Overflow-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/11356701/toufiqur-rahman-tamkin?tab=profile)
 
 <br />
 
-## 💻 Languages and Tools:
+## 💻 Programming Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
@@ -52,4 +54,3 @@ A competitive programmer and a full-stack javascript developer with a strong int
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqurrahmantamkin&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-[website]: https://toufiqur-rahman-tamkin-f75ea.web.app/#/home
