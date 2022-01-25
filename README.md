@@ -1,6 +1,6 @@
 ### Hi there, I'm [Toufiqur Rahman Tamkin] 👋 👋
 
-## I'm a [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) JavaScript Lover
+## I'm a JavaScript Lover
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Cloud computing, Software architechture.
