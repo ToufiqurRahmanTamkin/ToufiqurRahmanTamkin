@@ -1,6 +1,7 @@
-### Hi there, I'm  [Toufiqur Rahman Tamkin] 👋
+### Hi there, I'm [Toufiqur Rahman Tamkin] 👋
 
 ## I'm a JavaScript Lover
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Cloud computing, Software architechture.
 - ⚡ Fun fact: I love to Explore the world
@@ -8,19 +9,19 @@
 
 ### 📖 About me
 
-A full-stack javascript developer and a competitive programmer with a tremendous amount of interest in programming. Currently I am working on the MERN stack. I have developed some good-quality projects. I also have good knowledge of Object-Oriented Programming and Programming problem-solving. 
+A competitive programmer and a full-stack javascript developer with a strong interest in programming. At the moment, I'm working on the MERN stack. I've worked on some high-quality projects. I also have a strong understanding of Object-Oriented Programming and problem-solving in programming.
 
 <br />
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/toufiqur-rahman-tamkin-42a167160/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/toufiqurrahman.tamkin22/) 
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://tamkin22rahman.medium.com/) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/toufiqur-rahman-tamkin-42a167160/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/toufiqur.rahman.50309/)
+[![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.instagram.com/toufiqur.rahman.tamkin/)
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://tamkin22rahman.medium.com/)
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/11356701/toufiqur-rahman-tamkin?tab=profile)
 
 <br />
-
 
 ## 💻 Languages and Tools:
 
@@ -50,9 +51,5 @@ A full-stack javascript developer and a competitive programmer with a tremendous
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ToufiqurRahmanTamkin&theme=merko">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqurrahmantamkin&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
-
-
 
 [website]: https://toufiqur-rahman-tamkin-f75ea.web.app/#/home
