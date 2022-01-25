@@ -2,7 +2,7 @@
 
 ## I'm a JavaScript Lover
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Cloud computing, Software architechture, Microservice.
+- 🥅 2022 Goals: Cloud computing, Software architechture.
 - ⚡ Fun fact: I love to Explore the world
 - 💬 Ask me about anything
 
