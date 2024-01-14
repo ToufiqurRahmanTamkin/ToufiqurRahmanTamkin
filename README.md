@@ -3,7 +3,7 @@
 ## I'm a JavaScript Lover
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Cloud computing, Software architechture.
+- 🥅 2024 Goals: Cloud computing, Software architechture.
 - ⚡ Fun fact: I love to Explore the world
 - 💬 Ask me about anything
 
