@@ -1,4 +1,4 @@
-### Hi there, I'm [Toufiqur Rahman Tamkin] 👋 👋
+### Hi there, I'm [Toufiqur Rahman Tamkin](https://ceo.fusion-script.com/) 👋 👋
 
 ## I'm a JavaScript Lover
 
