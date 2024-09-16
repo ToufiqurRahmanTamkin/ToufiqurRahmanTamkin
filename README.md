@@ -9,7 +9,7 @@
 
 ## 📖 About me
 
-A passionate software engineer with 4+ years of experience in creating innovative and efficient solutions. My journey in tech began with a curiosity for problem-solving and has evolved into a career focused on developing robust, scalable applications and systems.
+A passionate Sr. Software Engineer with 4+ years of experience in creating innovative and efficient solutions. My journey in tech began with a curiosity for problem-solving and has evolved into a career focused on developing robust, scalable applications and systems.
 
 
 ## Connect with me:
