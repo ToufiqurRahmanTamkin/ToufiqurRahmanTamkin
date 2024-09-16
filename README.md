@@ -19,6 +19,7 @@ A competitive programmer and a full-stack javascript developer with a strong int
 [![Stack Overflow](https://img.shields.io/badge/%20-Stack%20Overflow-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/11356701/toufiqur-rahman-tamkin?tab=profile)
 [![Facebook](https://img.shields.io/badge/%20-Facebook-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/toufiqur.rahman.50309/)
 [![Instagram](https://img.shields.io/badge/%20-Instagram-black?color=14171A&labelColor=fff&logo=instagram&logoColor=0c0d0e26)](https://www.instagram.com/toufiqur.rahman.tamkin/)
+[![Dev.to](https://img.shields.io/badge/%20-Dev.to-black?color=14171A&labelColor=1976d2&logo=dev.to&logoColor=ffffff)](https://dev.to/toufiqur_rahman_tamkin)
 [![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://tamkin22rahman.medium.com/)
 
 
