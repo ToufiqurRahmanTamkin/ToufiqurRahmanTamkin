@@ -9,7 +9,7 @@
 
 ## 📖 About me
 
-A competitive programmer and a full-stack javascript developer with a strong interest in programming. At the moment, I'm working on the MERN stack. I've worked on some high-quality projects. I also have a strong understanding of Object-Oriented Programming and programming problem-solving.
+A passionate software engineer with 4+ years of experience in creating innovative and efficient solutions. My journey in tech began with a curiosity for problem-solving and has evolved into a career focused on developing robust, scalable applications and systems.
 
 
 ## Connect with me:
