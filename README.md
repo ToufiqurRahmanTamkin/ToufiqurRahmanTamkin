@@ -56,7 +56,7 @@ A competitive programmer and a full-stack javascript developer with a strong int
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ToufiqurRahmanTamkin?cardType=github&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ToufiqurRahmanTamkin?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ToufiqurRahmanTamkin&theme=merko">
 
