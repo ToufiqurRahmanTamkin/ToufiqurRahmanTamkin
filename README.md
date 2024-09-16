@@ -7,13 +7,12 @@
 - ⚡ Fun fact: I love to Explore the world
 - 💬 Ask me about anything
 
-### 📖 About me
+## 📖 About me
 
 A competitive programmer and a full-stack javascript developer with a strong interest in programming. At the moment, I'm working on the MERN stack. I've worked on some high-quality projects. I also have a strong understanding of Object-Oriented Programming and programming problem-solving.
 
-<br />
 
-### Connect with me:
+## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/toufiqur-rahman-tamkin-42a167160/)
 [![GitLab](https://img.shields.io/badge/%20-Git%20Lab-black?color=14171A&labelColor=1976d2&logo=gitlab&logoColor=ffffff)](https://gitlab.com/tamkin22rahman)
@@ -22,7 +21,6 @@ A competitive programmer and a full-stack javascript developer with a strong int
 [![Instagram](https://img.shields.io/badge/%20-Instagram-black?color=14171A&labelColor=fff&logo=instagram&logoColor=0c0d0e26)](https://www.instagram.com/toufiqur.rahman.tamkin/)
 [![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://tamkin22rahman.medium.com/)
 
-<br />
 
 ## 💻 Programming Languages and Tools:
 
@@ -55,6 +53,7 @@ A competitive programmer and a full-stack javascript developer with a strong int
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
+## 💻 Github Stats:
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ToufiqurRahmanTamkin?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
