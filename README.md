@@ -1,6 +1,6 @@
-### Hi there, I'm [Toufiqur Rahman Tamkin](https://ceo.fusion-script.com/) 👋 👋
+### Hi there, I'm [Toufiqur Rahman Tamkin](https://toufiqur-rahman-tamkin.fusion-script.com/)
 
-## I'm a JavaScript Lover
+### Founder of [Fusion Script](https://fusion-script.com/)
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Cloud computing, Software architecture.
@@ -9,11 +9,17 @@
 - 🎯 Current Focus: Developing scalable cloud solutions and mastering the principles of software architecture.
 - 📚 Passionate Learner: Always on the lookout for the latest trends and tools in tech, from AI to microservices.
 - ⚡ Fun Fact: I enjoy spontaneous adventures and tech meetups.
-- 💬 Ask me about anything: From code to travel tips!
+- 💬 Ask me about anything.
 
 ## 📖 About me
 
-A passionate Sr. Software Engineer with 4+ years of experience in creating innovative and efficient solutions. My journey in tech began with a curiosity for problem-solving and has evolved into a career focused on developing robust, scalable applications and systems.
+I am a passionate Senior Software Engineer with over 4 years of experience specializing in the MERN stack (MongoDB, Express.js, React, and Node.js). My journey in technology began with a curiosity for problem-solving, which has evolved into a career dedicated to creating innovative, efficient, and user-centric applications.
+
+Throughout my career, I have developed robust and scalable solutions for various industries, leveraging my expertise in full-stack development to build seamless web applications that enhance user experiences. I thrive on challenges and take pride in my ability to tackle complex problems with creativity and technical proficiency.
+
+In addition to my technical skills, I am committed to continuous learning and growth. I am particularly interested in expanding my knowledge in cloud computing and software architecture, aiming to design systems that are not only functional but also sustainable and adaptable.
+
+As an avid traveler, I draw inspiration from diverse cultures and perspectives, which enriches my approach to technology. I believe that the intersection of technology and creativity holds immense potential for driving meaningful change, and I am excited about the opportunities that lie ahead.
 
 
 ## Connect with me:
