@@ -19,7 +19,7 @@ Throughout my career, I have developed robust and scalable solutions for various
 
 In addition to my technical skills, I am committed to continuous learning and growth. I am particularly interested in expanding my knowledge in cloud computing and software architecture, aiming to design systems that are not only functional but also sustainable and adaptable.
 
-As an avid traveler, I draw inspiration from diverse cultures and perspectives, which enriches my approach to technology. I believe that the intersection of technology and creativity holds immense potential for driving meaningful change, and I am excited about the opportunities that lie ahead.
+As an avid traveler, I draw inspiration from diverse cultures and perspectives, which enriches my approach to technology. The intersection of technology and creativity holds immense potential for driving meaningful change, and I am excited about the opportunities.
 
 
 ## Connect with me:
@@ -33,7 +33,7 @@ As an avid traveler, I draw inspiration from diverse cultures and perspectives, 
 [![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://tamkin22rahman.medium.com/)
 
 
-## Skils:
+## Skills:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
