@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Cloud computing, Software architecture.
-- 💻 Tech Stack Expertise: Proficient in the MERN stack, with 4 years of experience in full-stack development.
+- 💻 Tech Stack Expertise: Proficient in the MERN stack, with 4+ years of experience in full-stack development.
 - 🌍 Explorer at Heart: I love traveling and discovering new cultures and places around the globe.
 - 🎯 Current Focus: Developing scalable cloud solutions and mastering the principles of software architecture.
 - 📚 Passionate Learner: Always on the lookout for the latest trends and tools in tech, from AI to microservices.
