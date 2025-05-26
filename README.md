@@ -13,7 +13,7 @@
 
 ## About me
 
-I am a passionate Senior Software Engineer with over 4 years of experience specializing in the MERN stack (MongoDB, Express.js, React, and Node.js). My journey in technology began with a curiosity for problem-solving, which has evolved into a career dedicated to creating innovative, efficient, and user-centric applications.
+I am a passionate Senior Software Engineer with over 4+ years of experience specializing in the MERN stack (MongoDB, Express.js, React, and Node.js). My journey in technology began with a curiosity for problem-solving, which has evolved into a career dedicated to creating innovative, efficient, and user-centric applications.
 
 Throughout my career, I have developed robust and scalable solutions for various industries, leveraging my expertise in full-stack development to build seamless web applications that enhance user experiences. I thrive on challenges and take pride in my ability to tackle complex problems with creativity and technical proficiency.
 
