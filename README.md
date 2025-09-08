@@ -1,6 +1,6 @@
-### Hi there, I'm [Toufiqur Rahman Tamkin](https://toufiqur-rahman-tamkin.fusion-script.com/)
+### Hi there, I'm [Toufiqur Rahman Tamkin](https://toufiqur-rahman-tamkin.vertoone.com/)
 
-### Founder of [Fusion Script](https://fusion-script.com/)
+### Founder of [Vertoone](https://www.vertoone.com/)
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2025 Goals: Cloud computing, Software architecture.
