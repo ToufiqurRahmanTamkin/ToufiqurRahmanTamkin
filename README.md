@@ -37,6 +37,9 @@ As an avid traveler, I draw inspiration from diverse cultures and perspectives, 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=#00C7B7)
+![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c++&logoColor=#00C7B7)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
