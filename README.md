@@ -4,7 +4,7 @@
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Toufiqur%20Rahman%20Tamkin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Engineer%20%7C%20Backend%20Architect%20%7C%20MERN%20Stack%20Expert&descSize=18&descAlignY=51"/>
 
 <!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+Scalable+Backend+Systems;⚡+Microservices+%26+Cloud+Architecture; 🌐 +Full-Stack+MERN+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+Scalable+Backend+Systems;⚡+Microservices+%26+Cloud+Architecture;🔧+Performance+Optimization+Expert;🌐+Full-Stack+MERN+Developer" alt="Typing SVG" />
 
 <!-- Glowing Badges -->
 <p>
@@ -196,8 +196,6 @@ infrastructure:
 </td>
 </tr>
 </table>
-
----
 
 <!-- Connect Section with Animated Social Icons -->
 <h2 align="center">
