@@ -199,22 +199,6 @@ infrastructure:
 
 ---
 
-<!-- Projects Showcase -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
-  <b> Featured Backend Projects </b>
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
-</h2>
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToufiqurRahmanTamkin&repo=scalable-microservices&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/ToufiqurRahmanTamkin/scalable-microservices)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ToufiqurRahmanTamkin&repo=performance-api&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/ToufiqurRahmanTamkin/performance-api)
-
-</div>
-
----
-
 <!-- Connect Section with Animated Social Icons -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
