@@ -2,24 +2,15 @@
 
 ### Founder of [Vertoone](https://www.vertoone.com/)
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2025 Goals: Cloud computing, Software architecture.
-- 💻 Tech Stack Expertise: Proficient in the MERN stack, with 4+ years of experience in full-stack development.
-- 🌍 Explorer at Heart: I love traveling and discovering new cultures and places around the globe.
-- 🎯 Current Focus: Developing scalable cloud solutions and mastering the principles of software architecture.
-- 📚 Passionate Learner: Always on the lookout for the latest trends and tools in tech, from AI to microservices.
-- ⚡ Fun Fact: I enjoy spontaneous adventures and tech meetups.
-- 💬 Ask me about anything.
+- 🚀 Cloud Computing & Microservices Architecture
+- ⚙️ Advanced Backend System Design
+- 📊 Database Performance Optimization
+- 🔧 DevOps & Infrastructure Automation
 
 ## About me
 
-I am a passionate Senior Software Engineer with over 4+ years of experience specializing in the MERN stack (MongoDB, Express.js, React, and Node.js). My journey in technology began with a curiosity for problem-solving, which has evolved into a career dedicated to creating innovative, efficient, and user-centric applications.
-
-Throughout my career, I have developed robust and scalable solutions for various industries, leveraging my expertise in full-stack development to build seamless web applications that enhance user experiences. I thrive on challenges and take pride in my ability to tackle complex problems with creativity and technical proficiency.
-
-In addition to my technical skills, I am committed to continuous learning and growth. I am particularly interested in expanding my knowledge in cloud computing and software architecture, aiming to design systems that are not only functional but also sustainable and adaptable.
-
-As an avid traveler, I draw inspiration from diverse cultures and perspectives, which enriches my approach to technology. The intersection of technology and creativity holds immense potential for driving meaningful change, and I am excited about the opportunities.
+I am a passionate Senior Software Engineer with over 4 years of experience specializing in backend development and the MERN stack. As the Founder of Vertoone, I lead innovative software solutions that drive business growth and enhance user experiences.
+My expertise lies in building scalable, robust backend systems and full-stack applications. I have a proven track record of delivering high-performance solutions across various industries, with a strong focus on system architecture, database optimization, and cloud integration.
 
 
 ## Connect with me:
@@ -33,7 +24,8 @@ As an avid traveler, I draw inspiration from diverse cultures and perspectives, 
 [![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://tamkin22rahman.medium.com/)
 
 
-## Skills:
+## Technical Expertise
+
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -83,6 +75,15 @@ As an avid traveler, I draw inspiration from diverse cultures and perspectives, 
 ![Gira](https://img.shields.io/badge/jira-%23000000.svg?style=for-the-badge&logo=jira&logoColor=#00C7B7)
 ![Trello](https://img.shields.io/badge/trello-%23000000.svg?style=for-the-badge&logo=trello&logoColor=#00C7B7)
 ![Clickup](https://img.shields.io/badge/clickup-%23000000.svg?style=for-the-badge&logo=clickup&logoColor=#00C7B7)
+
+## Professional Experience
+
+- 4+ Years of full-stack development experience
+- Founder & Lead Developer at Vertoone
+- Specialized in backend architecture and system design
+- Experience with microservices and distributed systems
+- Proficient in database optimization and performance tuning
+- Expertise in cloud deployment and DevOps practices
 
 
 ## Github Stats:
