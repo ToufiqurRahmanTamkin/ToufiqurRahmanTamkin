@@ -62,6 +62,10 @@ As an avid traveler, I draw inspiration from diverse cultures and perspectives, 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwindcss&logoColor=#00C7B7)
+![Redis](https://img.shields.io/badge/redis-%23000000.svg?style=for-the-badge&logo=redis&logoColor=#00C7B7)
+![Automation](https://img.shields.io/badge/automation-%23000000.svg?style=for-the-badge&logo=automation&logoColor=#00C7B7)
+![Mongoose](https://img.shields.io/badge/mongoose-%23000000.svg?style=for-the-badge&logo=mongoose&logoColor=#00C7B7)
+
 
 ## Github Stats:
 
