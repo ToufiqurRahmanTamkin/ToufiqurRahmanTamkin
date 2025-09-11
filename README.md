@@ -124,6 +124,10 @@ class BackendArchitect {
   <img src="https://streak-stats.demolab.com?user=ToufiqurRahmanTamkin&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 </div>
 
+<div align="center">
+  <img src="https://camo.githubusercontent.com/3c1eb65b7d3b962e3ef72f77c7823874f0d3d8f4fd6eaa4cf42c43cc115689b4/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d546f7566697175725261686d616e54616d6b696e267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565" />
+</div>
+
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToufiqurRahmanTamkin&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" />
