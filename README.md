@@ -34,7 +34,7 @@ As an avid traveler, I draw inspiration from diverse cultures and perspectives, 
 
 
 ## Skills:
-Programming Languages
+## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=#00C7B7)
