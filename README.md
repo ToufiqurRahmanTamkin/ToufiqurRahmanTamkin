@@ -1,255 +1,169 @@
 <div align="center">
 
-<!-- Animated Header with Gradient Text -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Toufiqur%20Rahman%20Tamkin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Engineer%20%7C%20Backend%20Architect%20%7C%20MERN%20Stack%20Expert&descSize=18&descAlignY=51"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:0a1628&height=280&section=header&text=Toufiqur%20Rahman%20Tamkin&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Backend%20Architect%20%7C%20Founder%20%40%20Vertoone&descSize=16&descAlignY=58&descColor=94a3b8"/>
 
-<!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+Scalable+Backend+Systems;⚡+Microservices+%26+Cloud+Architecture;🔧+Performance+Optimization+Expert;🌐+Full-Stack+MERN+Developer" alt="Typing SVG" />
+<br/>
 
-<!-- Glowing Badges -->
-<p>
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-blueviolet?style=for-the-badge&logo=calendar&logoColor=white&labelColor=7C3AED&color=A855F7">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-success?style=for-the-badge&logo=server&logoColor=white&labelColor=059669&color=10B981">
-  <img src="https://img.shields.io/badge/Specialization-MERN%20Stack-ff6b6b?style=for-the-badge&logo=javascript&logoColor=white&labelColor=DC2626&color=EF4444">
-</p>
+<a href="https://toufiqur-rahman-tamkin.vertoone.com/">
+  <img src="https://img.shields.io/badge/Portfolio-0a1628?style=flat-square&logo=vercel&logoColor=38bdf8&label=&labelColor=0a1628&color=0a1628" height="28"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/toufiqur-rahman-tamkin-42a167160/">
+  <img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+</a>
+&nbsp;
+<a href="mailto:tamkin@vertoone.com">
+  <img src="https://img.shields.io/badge/tamkin%40vertoone.com-1e293b?style=flat-square&logo=gmail&logoColor=ea4335" height="28"/>
+</a>
+&nbsp;
+<a href="https://gitlab.com/tamkin22rahman">
+  <img src="https://img.shields.io/badge/GitLab-1e293b?style=flat-square&logo=gitlab&logoColor=fc6d26" height="28"/>
+</a>
+&nbsp;
+<a href="https://www.vertoone.com/">
+  <img src="https://img.shields.io/badge/Vertoone-0a1628?style=flat-square&logo=rocket&logoColor=38bdf8" height="28"/>
+</a>
 
-<!-- Animated Snake Game -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ToufiqurRahmanTamkin/ToufiqurRahmanTamkin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ToufiqurRahmanTamkin/ToufiqurRahmanTamkin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ToufiqurRahmanTamkin/ToufiqurRahmanTamkin/output/github-contribution-grid-snake.svg">
-</picture>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&height=40&lines=Designing+distributed+systems+at+scale;Building+APIs+that+serve+millions+of+requests;Microservices+%E2%80%94+Cloud-Native+%E2%80%94+Event-Driven;Turning+complexity+into+elegant+architecture" />
 
 </div>
 
 ---
 
-<!-- About Section with Cool Design -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  <b>About The Backend Architect</b> 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h2>
+## About
 
-<div align="center">
-  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-</div>
+I'm a Senior Software Engineer and Founder of **Vertoone**, where I lead the design and development of high-throughput backend systems and cloud-native infrastructure. With 4+ years of production experience, I specialize in architecting systems that are reliable, observable, and built to scale.
+
+My work spans distributed microservices, real-time data pipelines, and performance-critical APIs — with a continuous focus on reducing latency, improving resilience, and shipping maintainable, well-designed code.
 
 ```typescript
-class BackendArchitect {
-  name: string = "Toufiqur Rahman Tamkin";
-  role: string = "Senior Software Engineer";
-  company: string = "Founder @ Vertoone";
-  
-  expertise: string[] = [
-    "🏗️ System Architecture & Design",
-    "⚡ High-Performance Backend APIs",
-    "🔄 Microservices Architecture", 
-    "📊 Database Optimization",
-    "☁️ Cloud Infrastructure",
-    "🚀 Scalable Solutions"
-  ];
-  
-  currentFocus: string[] = [
-    "Advanced Backend Patterns",
-    "Cloud-Native Development",
-    "Performance Engineering",
-    "DevOps & Infrastructure"
-  ];
-  
-  getMotivation(): string {
-    return "Turning complex problems into elegant solutions! 💡";
-  }
-}
-```
-
----
-
-<!-- Tech Stack with Animated Icons -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  <b> Backend Arsenal & Tech Stack </b>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
-
-<!-- Backend Technologies -->
-<h3 align="center">🚀 Backend Powerhouse</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgres,redis,docker&theme=dark&perline=8" />
-</p>
-
-<!-- Languages -->
-<h3 align="center">💻 Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c&theme=dark&perline=5" />
-</p>
-
-<!-- Cloud & DevOps -->
-<h3 align="center">☁️ Cloud & DevOps</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform,jenkins,nginx&theme=dark&perline=7" />
-</p>
-
-<!-- Frontend Skills -->
-<h3 align="center">🎨 Frontend Capabilities</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,html,css&theme=dark&perline=7" />
-</p>
-
-<!-- Tools & More -->
-<h3 align="center">🛠️ Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma&theme=dark&perline=6" />
-</p>
-
----
-
-<!-- Animated Metrics -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">
-  <b> Backend Performance Metrics </b>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">
-</h2>
-
-<div align="center">
-
-<!-- GitHub Stats with custom theme -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ToufiqurRahmanTamkin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ToufiqurRahmanTamkin&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ToufiqurRahmanTamkin&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-</div>
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/3c1eb65b7d3b962e3ef72f77c7823874f0d3d8f4fd6eaa4cf42c43cc115689b4/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d546f7566697175725261686d616e54616d6b696e267468656d653d6769746875625f6461726b26686964655f626f726465723d74727565" />
-</div>
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/51c1e2d9cca662fe69ed16428f4c5cfc4dc938634efc245c578a84dc4b956d76/68747470733a2f2f676863686172742e72736861682e6f72672f3538613666662f546f7566697175725261686d616e54616d6b696e" />
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToufiqurRahmanTamkin&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" />
-</div>
-
----
-
-<!-- Trophies -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="35">
-  <b> Achievement Unlocked </b>
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ToufiqurRahmanTamkin&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-<!-- Backend Expertise Showcase -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-  <b> Backend Expertise Deep Dive </b>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-</h2>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🏗️ **System Architecture**
-```javascript
-const architecture = {
-  patterns: ["Microservices", "Event-Driven", "CQRS"],
-  scalability: "Horizontal & Vertical",
-  reliability: "99.9% Uptime",
-  performance: "Sub-100ms Response"
+const profile = {
+  name:     "Toufiqur Rahman Tamkin",
+  role:     "Senior Software Engineer",
+  company:  "Founder @ Vertoone",
+  focus:    ["System Architecture", "Backend APIs", "Cloud Infrastructure", "DevOps"],
+  ethos:    "Build systems that are fast, observable, and built to last."
 };
 ```
 
-### 🔧 **Backend Technologies**
-- **Runtime:** Node.js, Express.js, NestJS
-- **Databases:** MongoDB, PostgreSQL, Redis
-- **Message Queues:** RabbitMQ, Apache Kafka
-- **Cache:** Redis, Memcached
-- **Search:** Elasticsearch
-- **Real-time:** Socket.io, WebSockets
+---
 
-</td>
-<td width="50%">
+## Technical Stack
 
-### ☁️ **Cloud & DevOps**
-```yaml
-infrastructure:
-  cloud: [AWS, GCP, Azure, DigitalOcean]
-  containers: [Docker, Kubernetes]
-  ci_cd: [GitHub Actions, GitLab CI]
-  monitoring: [Prometheus, Grafana]
-  logging: [ELK Stack, Winston]
-```
+**Backend & Runtime**
 
-### 🚀 **Performance Optimization**
-- **API Response Time:** < 50ms average
-- **Database Queries:** Optimized with indexing
-- **Caching Strategy:** Multi-layer caching
-- **Load Balancing:** NGINX, HAProxy
-- **Security:** JWT, OAuth2, Rate Limiting
+![Node.js](https://img.shields.io/badge/Node.js-1a2332?style=flat-square&logo=node.js&logoColor=6dbf67)
+![NestJS](https://img.shields.io/badge/NestJS-1a2332?style=flat-square&logo=nestjs&logoColor=e0234e)
+![Express](https://img.shields.io/badge/Express-1a2332?style=flat-square&logo=express&logoColor=c9d1d9)
+![GraphQL](https://img.shields.io/badge/GraphQL-1a2332?style=flat-square&logo=graphql&logoColor=e10098)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a2332?style=flat-square&logo=typescript&logoColor=3178c6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a2332?style=flat-square&logo=javascript&logoColor=f7df1e)
 
-</td>
-</tr>
-</table>
+**Databases & Caching**
 
-<!-- Connect Section with Animated Social Icons -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  <b> Let's Connect & Build Something Amazing </b>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-</h2>
+![MongoDB](https://img.shields.io/badge/MongoDB-1a2332?style=flat-square&logo=mongodb&logoColor=47a248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a2332?style=flat-square&logo=postgresql&logoColor=4169e1)
+![Redis](https://img.shields.io/badge/Redis-1a2332?style=flat-square&logo=redis&logoColor=dc382d)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1a2332?style=flat-square&logo=elasticsearch&logoColor=005571)
+
+**Messaging & Event Systems**
+
+![Apache Kafka](https://img.shields.io/badge/Kafka-1a2332?style=flat-square&logo=apachekafka&logoColor=c9d1d9)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a2332?style=flat-square&logo=rabbitmq&logoColor=ff6600)
+![Socket.io](https://img.shields.io/badge/Socket.io-1a2332?style=flat-square&logo=socket.io&logoColor=c9d1d9)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-1a2332?style=flat-square&logo=amazonaws&logoColor=ff9900)
+![GCP](https://img.shields.io/badge/GCP-1a2332?style=flat-square&logo=googlecloud&logoColor=4285f4)
+![Azure](https://img.shields.io/badge/Azure-1a2332?style=flat-square&logo=microsoftazure&logoColor=0078d4)
+![Docker](https://img.shields.io/badge/Docker-1a2332?style=flat-square&logo=docker&logoColor=2496ed)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a2332?style=flat-square&logo=kubernetes&logoColor=326ce5)
+![Terraform](https://img.shields.io/badge/Terraform-1a2332?style=flat-square&logo=terraform&logoColor=7b42bc)
+![NGINX](https://img.shields.io/badge/NGINX-1a2332?style=flat-square&logo=nginx&logoColor=009639)
+
+**Observability & CI/CD**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-1a2332?style=flat-square&logo=prometheus&logoColor=e6522c)
+![Grafana](https://img.shields.io/badge/Grafana-1a2332?style=flat-square&logo=grafana&logoColor=f46800)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a2332?style=flat-square&logo=githubactions&logoColor=2088ff)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-1a2332?style=flat-square&logo=gitlab&logoColor=fc6d26)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-1a2332?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-1a2332?style=flat-square&logo=next.js&logoColor=c9d1d9)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a2332?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![Redux](https://img.shields.io/badge/Redux-1a2332?style=flat-square&logo=redux&logoColor=764abc)
+
+---
+
+## Architecture & Engineering
+
+| Domain | Approach |
+|---|---|
+| **API Design** | RESTful & GraphQL, contract-first design, versioning strategies |
+| **Scalability** | Horizontal scaling, stateless services, load balancing with NGINX/HAProxy |
+| **Data Layer** | Query optimization, indexing strategies, read replicas, multi-layer caching |
+| **Resilience** | Circuit breakers, retry policies, graceful degradation, health checks |
+| **Security** | JWT/OAuth2, RBAC, rate limiting, input validation, dependency auditing |
+| **Observability** | Distributed tracing, structured logging (ELK), metrics (Prometheus/Grafana) |
+| **Deployment** | Docker + Kubernetes, Helm charts, GitOps, blue-green deployments |
+
+---
+
+## GitHub Metrics
 
 <div align="center">
-  <a href="https://toufiqur-rahman-tamkin.vertoone.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&labelColor=FF5722" />
-  </a>
-  <a href="https://www.vertoone.com/">
-    <img src="https://img.shields.io/badge/Vertoone-4CAF50?style=for-the-badge&logo=company&logoColor=white&labelColor=4CAF50" />
-  </a>
-  <a href="https://www.linkedin.com/in/toufiqur-rahman-tamkin-42a167160/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-  </a>
-  <a href="mailto:tamkin@vertoone.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-  </a>
-  <a href="https://gitlab.com/tamkin22rahman">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=330F63" />
-  </a>
+
+<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ToufiqurRahmanTamkin&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&include_all_commits=true" />
+&nbsp;
+<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ToufiqurRahmanTamkin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8" />
+
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=ToufiqurRahmanTamkin&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ToufiqurRahmanTamkin&bg_color=0d1117&color=38bdf8&line=1d4ed8&point=38bdf8&area=true&area_color=1d4ed8&hide_border=true" />
 </div>
 
 ---
 
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ToufiqurRahmanTamkin&style=for-the-badge&color=blueviolet&label=BACKEND+ARCHITECTS+VISITED" />
-</div>
+## Contribution Map
 
-<!-- Fun Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20backend%20systems%20are%20invisible%20to%20users%20but%20essential%20to%20everything&author=Backend%20Philosophy" />
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ToufiqurRahmanTamkin/ToufiqurRahmanTamkin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ToufiqurRahmanTamkin/ToufiqurRahmanTamkin/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ToufiqurRahmanTamkin/ToufiqurRahmanTamkin/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 
 <div align="center">
-  <b>✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨</b>
-  
-  <br><br>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ToufiqurRahmanTamkin&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
 </div>
+
+---
+
+<div align="center">
+
+**Open to senior engineering roles, technical advisory, and architecture consulting.**
+
+<a href="mailto:admin@vertoone.com">
+  <img src="https://img.shields.io/badge/Get%20In%20Touch-tamkin%40vertoone.com-38bdf8?style=flat-square&logo=gmail&logoColor=white&labelColor=0f172a" height="30"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ToufiqurRahmanTamkin&style=flat-square&color=1d4ed8&label=Profile+Views" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2137,100:0a0f1e&height=100&section=footer"/>
