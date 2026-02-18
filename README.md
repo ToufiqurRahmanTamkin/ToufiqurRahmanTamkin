@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0a77b6?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
 </a>
 &nbsp;
-<a href="mailto:tamkin@vertoone.com">
+<a href="mailto:admin@vertoone.com">
   <img src="https://img.shields.io/badge/tamkin%40vertoone.com-1e293b?style=flat-square&logo=gmail&logoColor=ea4335" height="28"/>
 </a>
 &nbsp;
